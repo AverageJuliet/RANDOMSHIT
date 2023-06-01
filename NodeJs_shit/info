@@ -1,3 +1,10 @@
+nodeJS based website project i made randomly
+coded in 20 minutes and comes packaged with all needed NODE-JS packages
+
+[commands to use this are shown below]
+
+
+
 cd chatdemo-2.0.1
 npm install
 cd Server
