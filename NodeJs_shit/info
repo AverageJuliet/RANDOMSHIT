@@ -1,0 +1,13 @@
+cd chatdemo-2.0.1
+npm install
+cd Server
+node app.js
+
+(UPDATED 3/27/23) 
+changes:
+1.fixed a bug that allowed remote crashes by injecting HTML into the username  box (how did i not fix this earlier)
+2.fixed typos
+
+(UPDATED 4/6/2023)
+1.more minor bug fixes
+2.added warning about fair use
