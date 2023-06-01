@@ -19,4 +19,5 @@ except KeyboardInterrupt:D(''+'\x1b[30B')
     #this is the original version of my bad apple demo
     #the way i had audio working was really broken so nearly 3 years later i just said "fuck it" and completely removed it
     #we do not talk about it trust me!
-    #created my AverageJuliet/
+    #created my AverageJuliet
+    
