@@ -10,7 +10,7 @@ import fpstimer
 import moviepy.editor as mp
 
 
-ASCII_CHARS = ["@", "#", "S", "%", "?", "*", "+", ";", ":", ",", " "]
+ASCII_CHARS = ["@", "#", "S", "%", "?", "*", "+", ";", ":", ",", " ","$","!","&"] #added symbols for improved encoding
 frame_size = 150
 frame_interval = 1.0 / 30.75
 
